@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/JMoore5353/versioning-testing/compare/v1.0.0...v2.0.0) (2025-08-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Breaking change
+
+### Features
+
+* Breaking change ([74319f3](https://github.com/JMoore5353/versioning-testing/commit/74319f3f7566d5641557062586b23811b026d00d))
+* change ([a792766](https://github.com/JMoore5353/versioning-testing/commit/a7927661b4583f9164b606db1f22ed24c658543c))
+
 ## 1.0.0 (2025-08-19)
 
 
