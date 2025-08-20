@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/JMoore5353/versioning-testing/compare/v2.0.0...v2.0.1) (2025-08-20)
+
+
+### Bug Fixes
+
+* added issue permissions to release action ([3c6800b](https://github.com/JMoore5353/versioning-testing/commit/3c6800b32b3f3a4f3c127d1dfa731b96d2bde921))
+
 ## [2.0.0](https://github.com/JMoore5353/versioning-testing/compare/v1.0.0...v2.0.0) (2025-08-19)
 
 
