@@ -1,0 +1,9 @@
+/my_node:
+  '  Subscribers:': []
+  '  Publishers:':
+  - name: /my_data
+    type: std_msgs/msg/String
+  '  Service Servers:': []
+  '  Service Clients:': []
+  '  Action Servers:': []
+  '  Action Clients:': []
