@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.66](https://github.com/JMoore5353/versioning-testing/compare/v2.0.1...v2.0.66) (2025-08-20)
+
+
+### Miscellaneous Chores
+
+* release version ([0d78997](https://github.com/JMoore5353/versioning-testing/commit/0d789971cb5cc280cf5dbcbd49a1163075f6cce3))
+
 ## [2.0.1](https://github.com/JMoore5353/versioning-testing/compare/v2.0.0...v2.0.1) (2025-08-20)
 
 
