@@ -11,3 +11,5 @@ Make a breaking change
 - Change
 - change
 - change
+
+## This is a major breaking change that is super important.
