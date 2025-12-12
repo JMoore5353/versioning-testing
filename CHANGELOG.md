@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.0.0-beta.2](https://github.com/JMoore5353/versioning-testing/compare/v3.0.0-beta.1...v3.0.0-beta.2) (2025-12-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* section heading
+
+### Features
+
+* add another feature to the bullets on the readme ([eb09dc4](https://github.com/JMoore5353/versioning-testing/commit/eb09dc410c99db55e150f1695b003537942b7c9a))
+* added new good stuff to the good stuff ([48e0ee1](https://github.com/JMoore5353/versioning-testing/commit/48e0ee15509d406112ca38b0a75a74519bcc9757))
+* last feature before feature freeze ([60a2d22](https://github.com/JMoore5353/versioning-testing/commit/60a2d22619f9dd39acf0745b02de4f37982872d7))
+* section heading ([f079f76](https://github.com/JMoore5353/versioning-testing/commit/f079f76a36fdf35eb3f4aa7ce8dce102a6ccf337))
+
 ## [3.0.0-beta.1](https://github.com/JMoore5353/versioning-testing/compare/v3.0.0-beta...v3.0.0-beta.1) (2025-12-12)
 
 
