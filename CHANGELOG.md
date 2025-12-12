@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/JMoore5353/versioning-testing/compare/v3.0.0-rc.4...v3.1.0) (2025-12-12)
+
+
+### Features
+
+* new stuff ([654462f](https://github.com/JMoore5353/versioning-testing/commit/654462fbd3cec9ebeb4e31273dbce0c775c6942e))
+
 ## [3.0.0-rc.4](https://github.com/JMoore5353/versioning-testing/compare/v3.0.0-rc.3...v3.0.0-rc.4) (2025-12-12)
 
 
