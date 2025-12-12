@@ -2,9 +2,10 @@
   "release-type": "simple",
   "include-component-in-tag": false,
   "bootstrap-sha": "9cc1345e8cd21152b766c6a107a4bd8b6039e633",
-  "versioning": "prerelease",
+  "versioning": "default",
   "prerelease": true,
   "prerelease-type": "rc",
+  "release-as": "3.0.0-rc",
   "draft": true,
   "always-update": true,
   "packages": {
