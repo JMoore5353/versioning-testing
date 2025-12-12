@@ -18,3 +18,4 @@ Make a breaking change
 - Ok, this is the last feature. I think we are good to move to RC now.
 - Bug fix
 - last bug fix
+- new feature!
