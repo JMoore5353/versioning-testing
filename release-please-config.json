@@ -5,8 +5,6 @@
   "versioning": "prerelease",
   "prerelease": true,
   "prerelease-type": "rc",
-  "release-as": "3.0.0-rc.3",
-  "draft": true,
   "always-update": true,
   "packages": {
     ".": {}
