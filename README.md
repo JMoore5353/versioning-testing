@@ -17,3 +17,4 @@ Make a breaking change
 - This is not a major breaking change, but it is a good one.
 - Ok, this is the last feature. I think we are good to move to RC now.
 - Bug fix
+- last bug fix
