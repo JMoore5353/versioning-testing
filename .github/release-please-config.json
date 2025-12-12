@@ -1,8 +1,9 @@
 {
   "release-type": "simple",
+  "bootstrap-sha": "d8610f8f441b901c879abc0045785e9a40fbc491",
   "include-component-in-tag": false,
-  "versioning": "default",
-  "prerelease": false,
+  "versioning": "prerelease",
+  "prerelease": true,
   "prerelease-type": "beta",
   "always-update": true,
   "packages": {
