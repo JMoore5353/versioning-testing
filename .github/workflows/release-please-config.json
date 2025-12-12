@@ -4,7 +4,6 @@
   "bootstrap-sha": "9cc1345e8cd21152b766c6a107a4bd8b6039e633",
   "versioning": "default",
   "prerelease": false,
-  "release-as": "3.1.0",
   "prerelease-type": "beta",
   "always-update": true,
   "packages": {
