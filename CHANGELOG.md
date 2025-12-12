@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.66](https://github.com/JMoore5353/versioning-testing/compare/v2.0.0...v2.0.66) (2025-12-11)
+
+
+### Features
+
+* added new good stuff to the good stuff ([48e0ee1](https://github.com/JMoore5353/versioning-testing/commit/48e0ee15509d406112ca38b0a75a74519bcc9757))
+
+
+### Bug Fixes
+
+* added issue permissions to release action ([3c6800b](https://github.com/JMoore5353/versioning-testing/commit/3c6800b32b3f3a4f3c127d1dfa731b96d2bde921))
+
+
+### Miscellaneous Chores
+
+* release version ([0d78997](https://github.com/JMoore5353/versioning-testing/commit/0d789971cb5cc280cf5dbcbd49a1163075f6cce3))
+
 ## [2.0.66](https://github.com/JMoore5353/versioning-testing/compare/v2.0.1...v2.0.66) (2025-08-20)
 
 
