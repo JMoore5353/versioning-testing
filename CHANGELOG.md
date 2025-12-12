@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.1.0](https://github.com/JMoore5353/versioning-testing/compare/v3.1.0...v3.1.0) (2025-12-12)
+
+
+### Features
+
+* move location of the config and manifest file paths ([4f15503](https://github.com/JMoore5353/versioning-testing/commit/4f155033982a4f9be59eac53e887ceddc2690d89))
+
+
+### Bug Fixes
+
+* bad path ([4ae2cbf](https://github.com/JMoore5353/versioning-testing/commit/4ae2cbf288c093c2e17db5f98bf9db6080cff53c))
+
 ## [3.1.0](https://github.com/JMoore5353/versioning-testing/compare/v3.0.0-rc.4...v3.1.0) (2025-12-12)
 
 
