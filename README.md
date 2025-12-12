@@ -13,3 +13,5 @@ Make a breaking change
 - change
 
 ## This is a major breaking change that is super important.
+
+- This is not a major breaking change, but it is a good one.
