@@ -4,7 +4,7 @@
   "bootstrap-sha": "9cc1345e8cd21152b766c6a107a4bd8b6039e633",
   "versioning": "prerelease",
   "prerelease": true,
-  "prerelease-type": "beta",
+  "prerelease-type": "rc",
   "draft": true,
   "always-update": true,
   "packages": {
