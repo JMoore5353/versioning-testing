@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.0](https://github.com/JMoore5353/versioning-testing/compare/v2.0.66...v3.0.0) (2025-12-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* section heading
+
+### Features
+
+* added new good stuff to the good stuff ([48e0ee1](https://github.com/JMoore5353/versioning-testing/commit/48e0ee15509d406112ca38b0a75a74519bcc9757))
+* section heading ([d68e298](https://github.com/JMoore5353/versioning-testing/commit/d68e298976f57e9d2f388b9948d7c94a1a5f5b82))
+
 ## [2.0.66](https://github.com/JMoore5353/versioning-testing/compare/v2.0.0...v2.0.66) (2025-12-11)
 
 
